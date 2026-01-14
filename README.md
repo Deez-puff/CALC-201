@@ -1,4 +1,4 @@
-#Stylish Calculator using Python & Tkinter
+# Stylish Calculator using Python & Tkinter
 
 A simple yet elegant calculator built using Python's `tkinter` library. This project provides a user-friendly graphical interface with basic arithmetic operations including addition, subtraction, multiplication, and division. It is designed with aesthetics in mind, featuring a dark theme and intuitive layout.
 
